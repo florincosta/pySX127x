@@ -45,16 +45,9 @@ class MODE:
 
 @add_lookup
 class BW:
-    BW7_8   = 0
-    BW10_4  = 1
-    BW15_6  = 2
-    BW20_8  = 3
-    BW31_25 = 4
-    BW41_7  = 5
-    BW62_5  = 6
-    BW125   = 7
-    BW250   = 8
-    BW500   = 9
+    BW125   = 0
+    BW250   = 1
+    BW500   = 2
 
 
 @add_lookup
